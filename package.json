@@ -1,0 +1,25 @@
+{
+  "name": "mean-backend",
+  "version": "0.0.1",
+  "description": "MEAN backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stealthman64/mean-backend.git"
+  },
+  "keywords": [
+    "MEAN",
+    "express",
+    "mongodb",
+    "node"
+  ],
+  "author": "stealthman64",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stealthman64/mean-backend/issues"
+  },
+  "homepage": "https://github.com/stealthman64/mean-backend#readme"
+}
