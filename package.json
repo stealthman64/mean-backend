@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/stealthman64/mean-backend/issues"
   },
-  "homepage": "https://github.com/stealthman64/mean-backend#readme"
+  "homepage": "https://github.com/stealthman64/mean-backend#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
